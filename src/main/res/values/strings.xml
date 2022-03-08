@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">MyIrancell</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- network alert dialog : -->
+    <string name="network_error">خطا در اتصال به اینترنت</string>
+    <string name="btn_setting_data">btn_setting_data</string>
+    <string name="btn_setting_wifi">btn_setting_wifi</string>
+
+    <!--ExoPlayer-->
+    <string name="clip1">https://alialahverdi.ir/wp-content/uploads/2021/09/my_irancell_app_media_01.mp4</string>
+    <string name="clip2">https://alialahverdi.ir/wp-content/uploads/2021/09/my_irancell_app_media_02.mp4</string>
+    <string name="clip3">https://alialahverdi.ir/wp-content/uploads/2021/09/my_irancell_app_media_03.mp4</string>
+    <string name="clip4">https://alialahverdi.ir/wp-content/uploads/2021/09/my_irancell_app_media_04.mp4</string>
+    <string name="clip5">https://alialahverdi.ir/wp-content/uploads/2021/09/my_irancell_app_media_05.mp4</string>
+    <string name="clip6">https://alialahverdi.ir/wp-content/uploads/2021/09/my_irancell_app_media_06.mp4</string>
+    <string name="NEXT">بعدی</string>
+    <string name="GOT_IT">متوجه شدم</string>
+
+    <array name="services_tittle">
+        <item>آهنگ پیشواز</item>
+        <item>رومینگ</item>
+        <item>اینترنت تعرفه آزاد</item>
+        <item>پشتیبانی</item>
+        <item>لیست سیاه</item>
+        <item>پوشش اینترنت</item>
+        <item>دفاتر خدماتی</item>
+        <item>محدودیت مکالمه</item>
+        <item>کدهای دستوری</item>
+        <item>خرید مودم</item>
+        <item>خدمات محتوایی</item>
+        <item>پیامگیر صوتی</item>
+        <item>خلاصه کارکرد</item>
+        <item>مدیریت سیم کارت</item>
+        <item>شارژ برای دیگران</item>
+        <item>نسل چهارم</item>
+        <item>تبدیل به دایمی</item>
+        <item>دعوت از دوستان</item>
+        <item>پیگیری سفارش</item>
+        <item>مشاهده ریز کارکرد</item>
+        <item>مسابقه</item>
+    </array>
+
+    <string name="version_unknown">Unknown</string>
+    <string name="app_version">Version</string>
+    <string name="internet_banner">internet banner</string>
+    <string name="day_description">مدت زمان اعتبار بسته اینترنت به روز</string>
+    <string name="_90">90</string>
+    <string name="_30">30</string>
+    <string name="_20">20</string>
+    <string name="_7">7</string>
+    <string name="gigabyte_description">حجم بسته اینترنت به گیگ</string>
+    <string name="_15">15</string>
+    <string name="add_product">افزودن بسته اختصاصی</string>
+    <string name="my_irancell">ایرانسل من</string>
+    <string name="email">پست الکترونیک</string>
+    <string name="password">رمز عبور</string>
+    <string name="login">ورود</string>
+    <string name="appVersion">ورژن 1.2.0</string>
+    <string name="logo_description">logo description</string>
+    <string name="done_description">done description</string>
+    <string name="bill_banner">bill banner</string>
+    <string name="rials">ریال</string>
+    <string name="_97000">97000</string>
+    <string name="bill_r1">مبلغ قابل پرداخت</string>
+    <string name="_560">560</string>
+    <string name="bill_r2">بدهی پیشین</string>
+    <string name="_1400_06_10">1400/06/10</string>
+    <string name="bill_r3">صورت حساب دوره</string>
+    <string name="score">50 امتیاز</string>
+    <string name="_09359172200">09359172200</string>
+    <string name="more_icon">more icon</string>
+    <string name="internet">اینترنت</string>
+    <string name="_109">109 مگ شگفت انگیز</string>
+    <string name="_5_68">5.68 گیگ عادی</string>
+    <string name="wallet_button">افزایش موجودی</string>
+    <string name="wallet">کیف پول دیجیتال</string>
+    <string name="_370_000">370.000 ریال</string>
+    <string name="home_buttons_description">home buttons description</string>
+    <string name="introduction">معرفی</string>
+    <string name="roaming">رومینگ</string>
+    <string name="my_profile">حساب من</string>
+    <string name="simCard">سیم کارت</string>
+    <string name="item_media_description">item media description</string>
+    <string name="item_product_description">item product description</string>
+    <string name="toman">تومان</string>
+    <string name="_45000">45000</string>
+    <string name="gigabyte">گیگ</string>
+    <string name="day">روزه</string>
+    <string name="_60">60</string>
+    <string name="description_for_view_seprator_in_product_item">description for view seprator in product item</string>
+    <string name="item_image_service_description">item image service description</string>
+    <string name="day_deadLine">مدت زمان اعتبار بسته (روز)</string>
+    <string name="gigabyte_deadLine">طرفیت و حجم بسته (گیگ)</string>
+    <string name="_10">10</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="confirm_edit">ثبت ویرایش</string>
+    <string name="bottom_sheet_image_description">bottom sheet image description</string>
+    <string name="alahverdi">علی اللهوردی</string>
+    <string name="developer">توسعه دهنده</string>
+    <string name="alroid_ir">Alroid.ir</string>
+    <string name="website">وبسایت</string>
+    <string name="dr_vahid_bakhtyari">دکتر وحید بختیاری</string>
+    <string name="teacher">استاد</string>
+    <string name="my_irancell_number">شماره ایرانسل من</string>
+    <string name="device">دستگاه</string>
+    <string name="android_version">ورژن اندروید</string>
+    <string name="bank_button">اتصال به درگاه بانک</string>
+
+</resources>
